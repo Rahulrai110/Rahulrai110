@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Rai.
 - 👀 I’m interested in Painting & Arts.
-- 🌱 I’m currently learning Selenium Automation using Java.
+- 🌱 I know Selenium Automation using java and I’m currently learning API Automation using Rest Assure.
 - 💞️ I’m looking to collaborate on Learning new Tool in the marked and Explorer them.
 - 📫 How to reach me rahul.rai606@gmail.com or rahul-a.rai@outlook.com
 
